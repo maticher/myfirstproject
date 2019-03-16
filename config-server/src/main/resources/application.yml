@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: configserver
+  cloud:
+    config:
+      enabled: false
+server:
+  port: 8980      
